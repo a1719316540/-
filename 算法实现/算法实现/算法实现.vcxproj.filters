@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="算法实现.cpp">
+    <ClCompile Include="插入排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
